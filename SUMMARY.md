@@ -2,14 +2,15 @@
 
 * [Что такое лазер?](README.md)
 
-## Guides
+## Руководство <a href="#guides" id="guides"></a>
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [Экспорт файла](guides/export.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
-## Fundamentals
+## Теория <a href="#fundamentals" id="fundamentals"></a>
 
+* [🤷♂ Какая то теория](fundamentals/kakaya-to-teoriya.md)
 * [Projects](fundamentals/projects.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
@@ -24,6 +25,6 @@
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
-## Extras
+## Дополнительные материалы <a href="#extras" id="extras"></a>
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)

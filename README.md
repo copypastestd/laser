@@ -10,6 +10,10 @@
 
 Не терпится начать? Изучите краткие инструкции:
 
+{% content-ref url="safety_rules.md" %}
+[safety\_rules.md](safety\_rules.md)
+{% endcontent-ref %}
+
 {% content-ref url="guides/laser_cut/" %}
 [laser\_cut](guides/laser\_cut/)
 {% endcontent-ref %}

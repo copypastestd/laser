@@ -6,7 +6,7 @@
 
 Лазеры вызывают восторг и неизменно ассоциируются с фантастическими фильмами и наукой будущего. Эти устройства кажутся сверхъестественными, что умело использовали создатели таких популярных блокбастеров, как «Люди X» или «Звездные войны», где джедаи эффектно сражаются на лазерных мечах.
 
-![Гиперболоид инженера Гарина (1966 г.)](../.gitbook/assets/Laser\_general\_00.JPG)
+![Гиперболоид инженера Гарина (1966 г.)](.gitbook/assets/Laser\_general\_00.JPG)
 
 Тем не менее лазеры — это уже давно не фантастика, а рабочий инструмент во многих областях современной науки. Эти устройства, будучи очень функциональными, окружают современного человека в повседневной жизни.
 
@@ -16,7 +16,7 @@
 
 Попросту говоря, лазер производит поток света, обладающий чрезвычайной концентрацией.
 
-![Аббревиатура LASER ](../.gitbook/assets/Laser\_general\_01.jpg)
+![Аббревиатура LASER ](.gitbook/assets/Laser\_general\_01.jpg)
 
 ~~Here are a couple of examples of succinct overviews from products with really great docs:~~
 
@@ -66,7 +66,7 @@
 
 Чтобы понять, как работает лазер, посмотрим на его структуру. Типичный лазер выглядит так: трубка, внутри которой размещен твердый кристалл, чаще всего рубин. С обоих торцов она закрыта зеркалами: прозрачным и не полностью прозрачным. Под воздействием электрической обмотки атомы кристалла генерируют световые волны. Эти волны перемещаются от одного зеркала к другому до того момента, пока не наберут интенсивность, достаточную для прохождения через не полностью прозрачное зеркало.
 
-![Принципиальная схема лазера](../.gitbook/assets/Laser\_general\_02.jpg)
+![Принципиальная схема лазера](.gitbook/assets/Laser\_general\_02.jpg)
 
 #### Как создается лазерный луч?
 
@@ -74,19 +74,19 @@
 
 Электроны всех атомов (на картинке — черные точки на внутренних окружностях) занимают основной энергетический уровень.
 
-![](../.gitbook/assets/Laser\_general\_03.jpg)
+![](.gitbook/assets/Laser\_general\_03.jpg)
 
 * 2-я стадия — момент после включения.
 
 Под действием энергии из разрядной трубки электроны перемещаются на более высокие энергетические орбиты (на картинке — внешние окружности).
 
-![](../.gitbook/assets/Laser\_general\_04.jpg)
+![](.gitbook/assets/Laser\_general\_04.jpg)
 
 * 3-я стадия — возникновение луча.
 
 Электроны начинают покидать высокие энергетические орбиты и спускаться к основному уровню. При этом они начинают испускать свет и побуждают к этому остальные электроны. Образуется общий результирующий пучок света с одинаковой длиной волны у каждого источника. Чем больше новых электронов вернется к низким орбитам, тем мощнее свет лазера.
 
-![](../.gitbook/assets/Laser\_general\_05.jpg)
+![](.gitbook/assets/Laser\_general\_05.jpg)
 
 #### Резкость фокусировки
 
@@ -94,7 +94,7 @@
 
 (См. рисунок: слева — свет лазера, справа — естественный свет). Если сравнить свет лазера с естественным светом, то будет видно, что последний не способен иметь настолько резкий фокус. Благодаря концентрации в узком луче огромной энергии лазер способен передать этот луч на гигантские расстояния, избегая рассеяния и ослабления, присущих многоцветному свету — естественному. Эти качества лазера превращают его в незаменимый инструмент для человека.
 
-![](../.gitbook/assets/Laser\_general\_06.jpg)
+![](.gitbook/assets/Laser\_general\_06.jpg)
 
 ### Физическое обоснование
 
@@ -233,16 +233,16 @@
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="../guides/export.md" %}
-[export.md](../guides/export.md)
+{% content-ref url="guides/file_export.md" %}
+[file\_export.md](guides/file\_export.md)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](../guides/creating-your-first-task.md)
+{% content-ref url="guides/file_design.md" %}
+[file\_design.md](guides/file\_design.md)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/advanced-permissions.md" %}
-[advanced-permissions.md](../guides/advanced-permissions.md)
+{% content-ref url="guides/advanced-permissions.md" %}
+[advanced-permissions.md](guides/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -253,20 +253,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="projects.md" %}
-[projects.md](projects.md)
+{% content-ref url="fundamentals/projects.md" %}
+[projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="members.md" %}
-[members.md](members.md)
+{% content-ref url="fundamentals/members.md" %}
+[members.md](fundamentals/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="task-lists.md" %}
-[task-lists.md](task-lists.md)
+{% content-ref url="fundamentals/task-lists.md" %}
+[task-lists.md](fundamentals/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="tasks.md" %}
-[tasks.md](tasks.md)
+{% content-ref url="fundamentals/tasks.md" %}
+[tasks.md](fundamentals/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

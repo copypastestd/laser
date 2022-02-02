@@ -4,13 +4,13 @@
 
 ## Руководство <a href="#guides" id="guides"></a>
 
-* [Экспорт файла](guides/export.md)
-* [Creating your first task](guides/creating-your-first-task.md)
+* [Подготовка файла](guides/file\_design.md)
+* [Экспорт файла](guides/file\_export.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Теория <a href="#fundamentals" id="fundamentals"></a>
 
-* [🤷♂ Какая то теория](fundamentals/kakaya-to-teoriya.md)
+* [🤷♂ Какая то теория](<README (1).md>)
 * [Projects](fundamentals/projects.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
@@ -28,3 +28,7 @@
 ## Дополнительные материалы <a href="#extras" id="extras"></a>
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
+***
+
+* [Растр/Вектор](https://www.freefall-laser.com/file-setup)

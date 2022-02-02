@@ -5,11 +5,12 @@
 
 ## Руководство <a href="#guides" id="guides"></a>
 
-* [💾 Подготовка файла](guides/file\_design.md)
-* [Экспорт файла](guides/file\_export.md)
-* [Подготовка машины к работе](guides/machine\_prepare.md)
-* [Машина за работой](guides/work\_in\_progress.md)
-* [Завершение работы](guides/fishish\_work.md)
+* [Page 1](guides/page-1/README.md)
+  * [💾 Подготовка файла](guides/page-1/file\_design.md)
+  * [Экспорт файла](guides/page-1/file\_export.md)
+  * [Подготовка машины к работе](guides/page-1/machine\_prepare.md)
+  * [Машина за работой](guides/page-1/work\_in\_progress.md)
+  * [Завершение работы](guides/page-1/fishish\_work.md)
 
 ## Оборудование <a href="#machines" id="machines"></a>
 

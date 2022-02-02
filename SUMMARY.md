@@ -41,7 +41,7 @@
 
 * [CorelDraw](extras/coreldraw.md)
 * [<Программа для управления маркеровщиком>](extras/less-than-programma-dlya-upravleniya-markerovshikom-greater-than.md)
-* [<>](extras/less-than-greater-than.md)
+* [<Программа для управления UV принтером>](extras/less-than-programma-dlya-upravleniya-uv-printerom-greater-than.md)
 
 ***
 

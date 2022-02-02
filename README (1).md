@@ -235,16 +235,16 @@ description: Много букв с картинками и видео
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/file_export.md" %}
-[file\_export.md](guides/file\_export.md)
+{% content-ref url="guides/laser_cut/file_export.md" %}
+[file\_export.md](guides/laser\_cut/file\_export.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/file_design.md" %}
-[file\_design.md](guides/file\_design.md)
+{% content-ref url="guides/laser_cut/file_design.md" %}
+[file\_design.md](guides/laser\_cut/file\_design.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/machine_prepare.md" %}
-[machine\_prepare.md](guides/machine\_prepare.md)
+{% content-ref url="guides/laser_cut/machine_prepare.md" %}
+[machine\_prepare.md](guides/laser\_cut/machine\_prepare.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

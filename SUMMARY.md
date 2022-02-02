@@ -5,16 +5,20 @@
 
 ## Руководство <a href="#guides" id="guides"></a>
 
-* [💾 Подготовка файла](guides/file\_design.md)
-* [Экспорт файла](guides/file\_export.md)
-* [Подготовка машины к работе](guides/machine\_prepare.md)
-* [Машина за работой](guides/work\_in\_progress.md)
-* [Завершение работы](guides/fishish\_work.md)
+* [Лазерная резка и гравировка](guides/laser\_cut/README.md)
+  * [💾 Подготовка файла](guides/laser\_cut/file\_design.md)
+  * [Экспорт файла](guides/laser\_cut/file\_export.md)
+  * [Подготовка машины к работе](guides/laser\_cut/machine\_prepare.md)
+  * [Машина за работой](guides/laser\_cut/work\_in\_progress.md)
+  * [Завершение работы](guides/laser\_cut/fishish\_work.md)
+* [Лазерная маркировка](guides/laser\_mark.md)
+* [УФ печать](guides/UV-print.md)
 
 ## Оборудование <a href="#machines" id="machines"></a>
 
 * [GCC](machines/gcc.md)
 * [\<Laser marker>](machines/laser\_marker.md)
+* [Roland LEF](machines/roland-lef.md)
 
 ## Теория <a href="#fundamentals" id="fundamentals"></a>
 

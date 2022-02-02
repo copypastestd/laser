@@ -10,24 +10,16 @@
 
 Не терпится начать? Изучите краткие инструкции:
 
-{% content-ref url="guides/file_design.md" %}
-[file\_design.md](guides/file\_design.md)
+{% content-ref url="guides/laser_cut/" %}
+[laser\_cut](guides/laser\_cut/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/file_export.md" %}
-[file\_export.md](guides/file\_export.md)
+{% content-ref url="guides/laser_mark.md" %}
+[laser\_mark.md](guides/laser\_mark.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/machine_prepare.md" %}
-[machine\_prepare.md](guides/machine\_prepare.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/work_in_progress.md" %}
-[work\_in\_progress.md](guides/work\_in\_progress.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/fishish_work.md" %}
-[fishish\_work.md](guides/fishish\_work.md)
+{% content-ref url="guides/UV-print.md" %}
+[UV-print.md](guides/UV-print.md)
 {% endcontent-ref %}
 
 ### Машины
@@ -40,6 +32,10 @@
 
 {% content-ref url="machines/laser_marker.md" %}
 [laser\_marker.md](machines/laser\_marker.md)
+{% endcontent-ref %}
+
+{% content-ref url="machines/roland-lef.md" %}
+[roland-lef.md](machines/roland-lef.md)
 {% endcontent-ref %}
 
 ### Теория

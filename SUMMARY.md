@@ -23,10 +23,10 @@
 ## Теория <a href="#fundamentals" id="fundamentals"></a>
 
 * [🤷♂ Какая то теория](<README (1).md>)
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Какая то теория 2](fundamentals/kakaya-to-teoriya-2.md)
+* [Какая то теория 3](fundamentals/kakaya-to-teoriya-3.md)
+* [...](fundamentals/....md)
+* [Какая то теория N](fundamentals/kakaya-to-teoriya-n.md)
 
 ## Примеры использования <a href="#cases" id="cases"></a>
 
@@ -39,7 +39,9 @@
 
 ## Дополнительные материалы <a href="#extras" id="extras"></a>
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [CorelDraw](extras/coreldraw.md)
+* [<Программа для управления маркеровщиком>](extras/less-than-programma-dlya-upravleniya-markerovshikom-greater-than.md)
+* [Page 2](extras/page-2.md)
 
 ***
 

@@ -255,20 +255,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/kakaya-to-teoriya-2.md" %}
+[kakaya-to-teoriya-2.md](fundamentals/kakaya-to-teoriya-2.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals/kakaya-to-teoriya-3.md" %}
+[kakaya-to-teoriya-3.md](fundamentals/kakaya-to-teoriya-3.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals/....md" %}
+[....md](fundamentals/....md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals/kakaya-to-teoriya-n.md" %}
+[kakaya-to-teoriya-n.md](fundamentals/kakaya-to-teoriya-n.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

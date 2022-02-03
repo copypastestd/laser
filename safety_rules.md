@@ -6,11 +6,12 @@
 
 ~~Наиболее вероятная угроза при использовании лазера это возникновении пожара. Если выбрать неправильный режимы резания например для фанеры, то большие шансы создать задымление и получить обугливающуюся деталь, но получить открытое пламя при работе все равно довольно проблематично. Но когда мы работаем с тонколистовыми или легковоспламеняющимися  материалами, например с бумагой или картоном, то вероятность пожара возрастает в разы.~~
 
-#### Что делать есть пожар всё-таки произошел?
+#### Что делать есть пожар всё-таки произошел? <Написать что делать в случае пожара>
 
-<table><thead><tr><th data-type="number"></th><th></th><th></th></tr></thead><tbody><tr><td>1</td><td>Turn off the exhaust system.</td><td>авв</td></tr><tr><td>null</td><td></td><td></td></tr><tr><td>null</td><td></td><td></td></tr></tbody></table>
-
-
+1. <mark style="background-color:orange;">Lift the top door. This often stops small flames.</mark>&#x20;
+2. <mark style="background-color:orange;">Turn off the exhaust system.</mark>&#x20;
+3. <mark style="background-color:orange;">Remove the material if it is safe to grab a corner.</mark>&#x20;
+4. <mark style="background-color:orange;">If your job begins to produce large flames and/or excessive smoke, immediately notify the nearest GCLS staff member.</mark>
 
 **Во время работы не оставляй лазер без присмотра!**
 

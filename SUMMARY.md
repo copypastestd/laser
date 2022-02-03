@@ -46,3 +46,4 @@
 ***
 
 * [Растр/Вектор](https://www.freefall-laser.com/file-setup)
+* [SAFETY](https://gcls.org/sites/default/files/imceuploads/documents/innovationstudio/Laser%20Cutter%20Safety%20and%20Operation%20Guide.pdf)

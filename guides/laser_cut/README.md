@@ -18,6 +18,12 @@
 
 ![Скорость VS Мощность](https://lh6.googleusercontent.com/kTWT5i7toz7RM62am4DwKk9CGGUH8AVJ5xi3pAifvmdPFtUh0zgZ6XAf1N7yUIfBSNxdxcpqQJibMW9T4n5vewvsiYup08Xhh6nFylCzEus2sHbKBJ23035H4t1RGrYNbjjOM30DEw)
 
+<mark style="background-color:orange;">**<Принципиальная схема станка>**</mark>
 
+<mark style="background-color:orange;">**<Резка / Гравировка>**</mark>
+
+<mark style="background-color:orange;">**<Растр / Вектор>**</mark>
+
+<mark style="background-color:orange;">**<Форматы файлов>**</mark>
 
 Файл со своим проектом можно подготавливать в любом графическом редакторе.

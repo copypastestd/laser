@@ -6,6 +6,7 @@
 ## Руководство <a href="#guides" id="guides"></a>
 
 * [Лазерная резка и гравировка](guides/laser\_cut/README.md)
+  * [Разрешенные материалы](guides/laser\_cut/materials.md)
   * [💾 Подготовка файла](guides/laser\_cut/file\_design.md)
   * [Экспорт файла](guides/laser\_cut/file\_export.md)
   * [Подготовка машины к работе](guides/laser\_cut/machine\_prepare.md)

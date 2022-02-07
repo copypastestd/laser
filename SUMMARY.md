@@ -11,7 +11,7 @@
   * [Экспорт файла](guides/laser\_cut/file\_export.md)
   * [Подготовка машины к работе](guides/laser\_cut/machine\_prepare.md)
   * [Машина за работой](guides/laser\_cut/work\_in\_progress.md)
-  * [Завершение работы](guides/laser\_cut/fishish\_work.md)
+  * [Завершение работы](guides/laser\_cut/finish\_work.md)
 * [Лазерная маркировка](guides/laser\_mark.md)
 * [УФ печать](guides/UV-print.md)
 
